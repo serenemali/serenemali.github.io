@@ -1,3 +1,5 @@
+THIS SITE IS A WORK IN PROGRESS. I HAVE NOT YET BEGUN TO APPLY THIS TEMPLATE. 
+
 # Portfolio
 
 A portfolio build by using flutter for web.
